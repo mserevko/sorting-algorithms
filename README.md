@@ -1,2 +1,2 @@
-# sorting_algorithms
-Example of implementation sorting algorithms in python. ✨
+# Sorting algorithms 🎸
+> Example of implementation sorting algorithms in python. ✨
