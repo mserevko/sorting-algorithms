@@ -2,6 +2,10 @@
 
 Bubble sort
 
+Bubble sort is a simple sorting algorithm that works by repeatedly stepping through the list,
+comparing adjacent elements and swapping them if they are in the wrong order, moving the largest
+elements to the end with each pass
+
 1. Looping through list
 2. Compares elements of list (list[n] > list[n+1]), swaps them if they are in the wrong order.
 3. The pass through the list is repeated until the list is sorted.
